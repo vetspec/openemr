@@ -48,7 +48,7 @@
         "phpseclib/phpseclib": "2.0.34",
         "ramsey/uuid": "4.2.3",
         "rospdf/pdf-php": "0.12.63",
-        "smarty/smarty": "2.6.33",
+        "smarty/smarty": "3.1.43",
         "symfony/config": "4.4.30",
         "symfony/dependency-injection": "4.4.31",
         "symfony/event-dispatcher": "4.4.30",
