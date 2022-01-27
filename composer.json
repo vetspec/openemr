@@ -13,7 +13,7 @@
     "require": {
         "php": ">=7.4.0",
         "academe/omnipay-authorizenetapi": "3.1.2",
-        "adodb/adodb-php": "5.21.2",
+        "adodb/adodb-php": "5.21.4",
         "dompdf/dompdf": "1.0.2",
         "ezyang/htmlpurifier": "4.13.0",
         "guzzlehttp/guzzle": "7.4.0",
